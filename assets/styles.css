@@ -1,9 +1,10 @@
   img {
-      border: 2px solid #313131;
+      border: 3px solid #313131;
       height: auto;
       object-fit: cover;
       object-position: 50% 100%;
-      width: 8em;
+      width: 13em;
+      margin: 20px;
   }
   body {
       background: #1a1b26;
@@ -16,18 +17,17 @@
       height: 100vh;
       margin: 0;
 }
- a {
+a {
       color: #7aa2f7;
       text-decoration: none;
-      margin: 5px;
+      margin: 0px;
  }
-     html {
+html {
       align-items: center;
       color: #313131;
       display: flex;
-      font: 22px "Courier New", Courier, monospace;
+      font: 22px "FiraCode Nerd Font Mono", Courier, monospace;
       height: 100%;
       justify-content: center;
       margin: 0;
-    }
-
+}
