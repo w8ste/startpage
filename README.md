@@ -18,6 +18,7 @@ A minimalist custom start page for Firefox using pure HTML and CSS.
 
 1. Clone the repo into a local folder or fork it.
 2. Set your Firefox start page to the HTML file (e.g., `file:///path/to/startpage.html`) or via GitHub pages.
+3. In order to use the startpage with new tabs use an firefox extension like [new-tab-override](https://addons.mozilla.org/en-US/firefox/addon/new-tab-override/)
 
 ---
 
