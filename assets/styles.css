@@ -1,7 +1,7 @@
   img {
       border: 3px solid #313131;
       height: auto;
-      object-fit: cover;
+      object-fit: scale-down;
       object-position: 50% 100%;
       width: 100%;
       max-width: 13em;
